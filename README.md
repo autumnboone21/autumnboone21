@@ -8,4 +8,3 @@ Interested in...
 - Deep Learning
 - Bioinformatics
 - AI
-- 
