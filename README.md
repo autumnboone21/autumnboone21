@@ -1,6 +1,6 @@
 Autumn Boone
-University of Louisville '25
-Undergraduate Research Assistant
+- University of Louisville '25
+- Undergraduate Research Assistant
 
 Interested in...
 - Natural Language Processsing
