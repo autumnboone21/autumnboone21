@@ -7,4 +7,5 @@ Interested in...
 - Machine Learning
 - Deep Learning
 - Bioinformatics
+- Audio Software
 - AI
