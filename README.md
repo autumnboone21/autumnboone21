@@ -7,5 +7,6 @@ Interested in...
 - Natural Language Processsing
 - Artificial Intelligence
 - Machine Learning
+- Cybersecurity
 - Audio Software
 - Bioinformatics
